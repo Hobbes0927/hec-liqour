@@ -5,7 +5,7 @@ REDM liquor script, which allows for custom effects, gold cores, and thirst incr
 
 
 ## Acknowledgements
-This script is inspired by the original work of PokeSer from the project poke_licor.
+This script is inspired by the original work of **PokeSer** from the project **poke_licor**.
 
 Source: https://github.com/PokeSer/poke_licor
 
