@@ -7,16 +7,16 @@ Config.MetabolismScript = 'fx-hud'  -- fx-hud, vorp-metabolism, or custom (if cu
 
 Config.ItemsToUse = {
     {
-        Name = 'brandy',
-        Label = 'Brandy',
+        Name = 'brandy',  -- Inventory item name
+        Label = 'Brandy',  -- Prompt label
         CoreType = 0, -- 0 for Health, 1 for Stamina, -1 to disable
-        CoreLength = 120,
-        Thirst = 35,
-        ObjectModel = 'p_bottlebrandy01x',
-        PropId = 'p_bottleJD01x_ph_r_hand',
-        ItemInteraction = 'DRINK_BOTTLE@Bottle_Cylinder_D1-3_H30-5_Neck_A13_B2-5_TABLE_HOLD',
-        AnimFxType = 'PlayerDrunk01',
-        DrunkTime = 90,
+        CoreLength = 120,  -- Length of time (seconds) gold core is applied
+        Thirst = 35,  -- Level of thirst increased
+        ObjectModel = 'p_bottlebrandy01x',  -- Prop model
+        PropId = 'p_bottleJD01x_ph_r_hand',  -- Prop placement
+        ItemInteraction = 'DRINK_BOTTLE@Bottle_Cylinder_D1-3_H30-5_Neck_A13_B2-5_TABLE_HOLD',  -- Animation
+        AnimFxType = 'PlayerDrunk01',  --FX type
+        DrunkTime = 90,  -- Length of time (seconds) FX is applied
     },
     {
         Name = 'tequila',
