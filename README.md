@@ -11,7 +11,7 @@ Source: https://github.com/PokeSer/poke_licor
 
 
 ## Features
-Interative drinking with props
+Interactive drinking with props
 
 Each drink can be customized to use different props
 
