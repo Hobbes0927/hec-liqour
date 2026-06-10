@@ -11,6 +11,8 @@ Source: https://github.com/PokeSer/poke_licor
 
 
 ## Features
+Interative drinking with props
+
 Each drink can be customized to use different props
 
 Select unique animations while drinking
@@ -44,3 +46,5 @@ https://github.com/Hobbes0927/hec-liqour
 
 ## Versions
 1.0.0 - First Full Release
+
+1.0.1 - Documentation Changes
