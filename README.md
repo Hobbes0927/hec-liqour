@@ -25,6 +25,8 @@ Adjustable thirst increase per drink
 ## Dependencies
 vorp_core
 
+vorp_inventory
+
 A metabolism script (fx-hud, vorp-metabolism, or custom)
 
 
