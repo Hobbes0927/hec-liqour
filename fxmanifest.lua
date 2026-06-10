@@ -7,7 +7,7 @@ lua54 'yes'
 
 author 'Hobbes0927'
 description 'VORP liquor consumables for RedM'
-version '1.0.0'
+version '1.0.1'
 
 shared_scripts {
     'config.lua',
